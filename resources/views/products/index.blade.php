@@ -39,10 +39,10 @@
 										
 										<div class="table-wrapper">
 										        <table cellspacing="1" cellspacing="30">
-												<thead>
+												<thead>	
 													    <tr>
-														<td ><h2><font color="green">ID </font></h2></td>
-														<td ><h2><font color="green">&nbsp; Nombre Producto</font></h2></td>
+														<td ><h2><font color="green">ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </font></h2></td>
+														<td ><h2><font color="green">&nbsp;       Nombre&nbsp;Producto</font></h2></td>
 														<a href="{{ route('products.create')}}" class="btn btn-success button small btn-block btn-lg pull-rigth"><i class="fa fa-plus fa-2x" aria-hidden="true"></i>&nbsp; Nuevo</a>
 														
 													</tr>
