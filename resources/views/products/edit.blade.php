@@ -6,7 +6,7 @@
 
     <div class="banner_bottom_w3ls_info">
       <h3 class="agile_heading">Productos</h3>
-      <p>Aca prodremos agragar, eliminar, consultar y borr productos</p>
+      <p>Aca prodremos agregar, eliminar, consultar y borrar productos</p>
      
     </div>
   </div>
