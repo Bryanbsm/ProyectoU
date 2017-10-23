@@ -137,7 +137,7 @@ $mysqli = new mysqli("localhost", "root", "", "pro1");
 
 $mysqli = new mysqli("185.27.134.10", "eshos_20906058", "", "eshos_20906058_pro1");
 
-
+  sql207.eshost.com.ar
  */
 /* verificar la conexión */
 if (mysqli_connect_errno()) {
