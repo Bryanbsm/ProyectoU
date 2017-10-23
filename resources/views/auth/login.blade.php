@@ -12,7 +12,7 @@
                                         <label class="sr-only" for="email">Email</label>
 
                                         <div>
-                                        <input id="email" type="email" class="form-control" name="email" value="{{ old('email') }}" placeholder="Email..." required autofocus>
+                                        <input id="email" type="email" class="form-control" name="email" value="{{ old('email') }}" placeholder="Email..." required autofocus> 
 
 
                                 @if ($errors->has('email'))
@@ -43,8 +43,10 @@
                                
                                
 
-                                <!--- <a class="btn btn-link" href="{{ route('password.request') }}">
-                                    Olvido la contraseña? </a> ---->
+                                <!--- 
+                                <a class="btn btn-link" href="{{ route('password.request') }}">
+                                    Olvido la contraseña? </a>
+                                     ---->
                                  </form>
         
 

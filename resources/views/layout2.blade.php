@@ -133,6 +133,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
           <p class="counter"> <?php
 $mysqli = new mysqli("localhost", "root", "", "pro1");
 
+/* base de datos online 
+
+$mysqli = new mysqli("185.27.134.10", "eshos_20906058", "", "eshos_20906058_pro1");
+
+
+ */
 /* verificar la conexión */
 if (mysqli_connect_errno()) {
     printf("Conexión fallida: %s\n", mysqli_connect_error());
